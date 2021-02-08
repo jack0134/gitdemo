@@ -8,4 +8,6 @@ func main() {
 	printA()
 
 	fmt.Println("Update Main 1!")
+
+	fmt.Println("Update Main 2")
 }
