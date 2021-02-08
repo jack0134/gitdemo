@@ -10,4 +10,6 @@ func main() {
 	fmt.Println("Update main 1!")
 
 	printHelloA()
+
+	fmt.Println("Update main 2!")
 }
